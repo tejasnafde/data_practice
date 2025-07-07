@@ -1,0 +1,201 @@
+CustomerID,Name,Email,Age,Country,SignupDate,LastPurchaseDate,TotalPurchases,TotalSpentUSD,SubscribedNewsletter
+08fd643d-50dd-48c5-be93-1f197d25d92a,Todd Gonzalez,evansholly@acosta.org,58,Honduras,2023-05-30,2025-04-23,13,1364.79,False
+4f0dc44f-2e22-4aa5-8c2e-c85382d7fd2e,Richard Mathews,joann00@barry.net,25,Dominica,2021-05-16,2025-04-22,10,697.85,False
+e368ec16-649e-4bce-9cf9-3e481a131277,Mr. Adam Mcdowell III,ywright@hotmail.com,19,Fiji,2025-07-02,2025-04-04,24,3245.23,True
+0a3ffdf5-06ef-4787-b893-af1fd1342549,Ms. Suzanne Russell,joseph05@yahoo.com,65,Bouvet Island (Bouvetoya),2021-09-25,2024-12-23,49,2313.26,False
+efdaa546-4779-4954-8968-ab0c8741ca05,Alexander Clark PhD,jonathanchang@yahoo.com,35,Andorra,2024-05-21,2024-12-16,11,4648.64,False
+57f9a0e7-fbcc-42c1-8702-fe52e849b466,Christopher Wheeler,smithmary@johnson-welch.com,33,Trinidad and Tobago,2024-10-21,2025-02-28,35,4681.88,False
+2783a99f-b660-452d-b10c-bb3a237a87e7,Nicholas Lyons,uward@flores.net,32,French Polynesia,2024-07-16,2024-10-06,50,96.11,True
+7d71d00b-aa54-4dbe-9137-b7f2aad11d3c,Taylor Ortiz,warnerrobert@yahoo.com,26,Guam,2022-12-27,2025-05-15,34,3124.74,False
+1d18181c-6a2e-479f-a3e9-5357f7abe31f,Bailey Aguirre,zscott@hotmail.com,65,Switzerland,2020-12-15,2024-10-09,1,2836.82,False
+bfafb915-6d29-40ac-87e0-dc187da4982e,Keith Elliott,bwatts@mcdaniel-leonard.com,24,Bahrain,2025-06-03,2024-09-23,39,544.91,True
+26d5eae2-8cd4-4b74-9212-c489145334c8,Robert Avery,christopher16@love.com,61,Armenia,2023-05-02,2024-12-06,21,2711.29,False
+3cf35155-cf07-4773-a4ed-de9fa31f681a,Robert Saunders,jasonwhite@hotmail.com,65,South Africa,2022-12-06,2024-10-10,32,2554.13,False
+bc17f8fc-cf2b-404e-a8ca-bddf55a56818,Dalton Bond,vpayne@reynolds.com,52,Serbia,2022-06-11,2025-03-12,2,705.66,True
+9fa1b4f4-f924-473c-903e-fecb876702ba,Bryan Bell,colleencline@gmail.com,23,Macao,2024-10-24,2025-03-30,8,1777.59,False
+44f452fe-3a68-4234-b4fb-b232b070c151,Tracy Holmes,emoore@hunt.com,55,Niger,2024-06-18,2025-03-08,24,390.52,True
+224de359-2aa5-4b83-8394-d7ebb1cad3a8,Denise Lara DVM,jenkinsanna@alvarez.net,45,Sweden,2022-10-13,2025-06-22,20,1259.21,False
+e4ef2fa4-3af0-48b6-9ae1-b6cdf9125165,Brenda Haney,parkermary@gmail.com,20,Bosnia and Herzegovina,2023-08-17,2024-12-23,16,1460.69,False
+be5ca7e1-2d87-4f8b-8190-c485f307c08d,Michael Perry,erik62@gmail.com,19,Chad,2024-07-01,2025-06-20,4,2219.01,False
+a44bda07-56ad-4710-8340-d714aaee5dad,Seth May,serranolaura@conner.net,23,Madagascar,2025-01-12,2024-08-12,16,2738.93,True
+8dd0ef53-8b9e-413e-a0fc-65192d291c01,Marie Allen,tara83@lewis.com,31,Guernsey,2022-11-05,2024-07-09,37,1547.46,True
+f6f9926f-4265-4e32-a9ff-92dea7bf90b6,James Berry,christopher72@hotmail.com,32,Gibraltar,2025-04-04,2025-06-10,6,4920.07,True
+9a8413ea-f2bb-45e4-9ef2-e0b6a49414b4,Caroline Miles,john64@yahoo.com,50,British Virgin Islands,2021-07-13,2024-12-08,6,4045.14,True
+739d04fc-3fe9-4373-9fe7-7f9de122c4b8,Michael Robinson,elizabethsimpson@henry.com,56,Finland,2021-02-27,2025-04-28,47,2668.26,False
+d0303884-01b4-4599-916b-49048de10523,Autumn Sparks,olester@hotmail.com,19,Egypt,2023-10-22,2025-04-19,32,3355.92,True
+d1a7622e-5c0b-42db-987c-ef023c2c9b5e,Angela Hanson,omcfarland@yahoo.com,53,Honduras,2023-08-21,2024-07-15,5,2795.28,True
+d7415349-6d67-4328-9754-b8aa3087c07c,James Oconnor,xbrewer@wagner-stewart.biz,30,Timor-Leste,2022-03-23,2025-03-13,49,4662.19,True
+a5bd7cea-c374-4f9d-8c8d-6d71fa2901f7,Walter Hawkins,fieldsgregory@silva-lawson.com,63,British Virgin Islands,2023-10-20,2024-09-06,35,562.75,False
+50759137-7db6-4d6b-bde5-3b960a26dfef,Daniel Morgan,jacobwilson@simpson.org,59,Bulgaria,2024-09-27,2024-12-08,50,4396.73,False
+adfd827c-13b6-4bc9-a13e-ab79c83e64d4,Felicia Morton,cooperjohn@gmail.com,62,Pakistan,2021-12-18,2025-04-03,9,1359.11,False
+f20490db-7be9-43d2-9f4a-5fc601c04f59,Antonio Zimmerman,mjohnson@yahoo.com,52,Kenya,2020-07-30,2024-07-26,9,4454.08,False
+965cbbd7-6d4a-4b8a-838e-80027ad05e77,Charles Lara,laurahicks@bowen-david.info,44,Mayotte,2023-08-27,2025-03-05,43,3724.96,False
+ea9fa6bd-d304-4167-993d-3470044046d0,Danielle Molina,franklinmichael@yahoo.com,32,Guyana,2025-05-29,2025-02-02,31,819.47,True
+927728eb-d378-48b5-b230-80852ae3b936,Johnny Jenkins,nelsonadam@li.biz,46,Falkland Islands (Malvinas),2025-06-23,2024-11-22,36,1444.69,True
+67a62ce7-8183-45c1-97e5-2847756c4b03,Melissa Gonzalez,wtownsend@yahoo.com,55,Georgia,2021-02-16,2025-03-30,11,1092.62,False
+c50a6034-da1d-41ab-ac6f-0a709471f605,Brandon Adams,ydeleon@carlson.com,35,Trinidad and Tobago,2021-04-16,2024-08-08,17,1747.26,False
+37ec650f-6efd-42f5-b58b-20d3ad90f161,Troy Boyer,stricklandwendy@hotmail.com,69,Micronesia,2022-05-30,2024-12-02,34,3453.11,True
+95ba61cc-8061-42b8-ae53-493b967299c9,Angel Jordan,thomasrichard@callahan-perry.com,18,El Salvador,2022-11-14,2024-12-29,39,4271.92,False
+382771ef-8d2e-4a5a-9e29-d3e8b0e612a7,Zachary Tucker,shanedavis@mayer.org,66,Panama,2021-07-21,2025-04-01,28,2551.77,False
+b0ef74ab-a1fa-4442-89ab-11d5a31de09d,Lisa Adams,amy56@hotmail.com,69,Botswana,2024-05-25,2025-05-31,14,1293.05,True
+5d0d7643-96d3-4d3a-b37e-c28109fec8f9,John Craig,whouston@gmail.com,28,Bulgaria,2021-09-03,2025-06-10,35,4545.39,False
+49a32fe7-a2a8-46eb-ad6b-4639bcd9f2fa,Kristy Moore,kelseysteele@gmail.com,62,Liberia,2023-04-23,2024-07-11,49,301.45,False
+53e46337-6bf4-45a8-915d-52a2c2533f72,Jessica Harris,iscott@yahoo.com,45,Zimbabwe,2022-07-17,2024-08-10,47,3189.71,False
+9f8504ae-f037-4c88-9194-a4a7aaf9ffc8,Jonathan Moore,markhancock@smith.com,39,Congo,2022-09-20,2025-03-28,45,4155.27,False
+6671f099-85c9-4906-a883-83404190f3f9,Christopher Rodgers,cpeters@ferguson-collins.com,35,Cayman Islands,2025-03-20,2025-01-27,13,268.23,True
+b7f20200-b82a-4843-a27a-deed24559d97,Frank Glover,garciasteven@norman-stevens.org,27,Bahrain,2024-09-04,2024-07-17,46,1701.1,False
+6932f2ab-40e0-4e08-80df-dcab728c4b3c,Martin Townsend,matthew48@sanchez.com,31,Egypt,2023-06-05,2025-05-30,20,697.56,True
+0fd56324-b9fc-4c81-ba55-881718fbad17,Maria Higgins,ariasdesiree@kim-bailey.biz,66,Jordan,2024-07-09,2025-03-14,26,4900.0,False
+36bcfed1-1238-4e31-88a0-ba731dd1ac79,Steven White,gabrielle60@holmes-cannon.info,39,Haiti,2022-10-09,2024-11-13,43,849.83,False
+eac80489-e6ab-4ea7-8562-4775be8fcf1d,Rebecca Ford,morrislarry@yahoo.com,24,Puerto Rico,2023-07-26,2024-10-29,42,2237.09,False
+cd6d0c94-ef16-40de-9696-b72673c36718,Susan Jackson,martinezalexander@hamilton.com,23,Haiti,2021-05-20,2025-06-18,24,3543.05,True
+668fae25-33ab-431b-95ae-0b99199b80c7,Joshua Peterson,ninaallen@gmail.com,42,United States Virgin Islands,2021-08-24,2025-03-18,29,2826.49,False
+da4ebacd-9dec-4dc4-b5f6-1e52f43dd80f,Julie Lowe,tiffany03@ross.biz,24,Ecuador,2023-01-22,2024-09-22,34,603.78,False
+5451de0e-c01b-4709-8abd-1ef4a723c6e9,Leonard Munoz,david52@hotmail.com,40,Libyan Arab Jamahiriya,2023-03-11,2025-06-03,29,4728.0,False
+57636cb2-0321-4b7f-a8aa-18b8bd88d348,Amy Garcia,stephanie82@gmail.com,40,Antarctica (the territory South of 60 deg S),2023-08-19,2024-07-26,8,3470.55,True
+8ac13435-aa03-4493-92f2-d78a7daef37a,Jodi Parker,jeremy53@jacobs.com,56,Netherlands Antilles,2022-09-22,2024-12-05,16,787.82,False
+2ca476a5-62e4-4536-8bc0-0106dca71a5f,Tracy Sullivan,sarah36@jackson-long.com,34,France,2023-05-28,2024-10-19,15,228.34,True
+50486afb-88aa-40f2-ab18-b3892a4e7bdf,Melvin Ortiz,peterfleming@griffith.com,69,American Samoa,2022-02-20,2025-03-07,5,1877.62,True
+aa43f483-243c-4312-978a-b531bb9ef658,Rachel Barnes,xmcbride@white.com,20,Nicaragua,2024-09-15,2025-02-04,22,2785.0,False
+af7fedd2-0899-4ebd-8792-7fa3aa72f5e0,Brooke Gonzales,arianaalexander@hernandez.net,64,Djibouti,2024-09-10,2025-06-20,2,2177.44,True
+bd06910c-913a-4b18-ac0d-00f524d54867,Willie Galvan,nancy38@hotmail.com,47,Nepal,2021-01-12,2025-01-12,38,257.05,True
+e17fd2df-7100-4e89-a76c-0783a456a8de,Robert Lawrence,hoopercaitlin@romero.com,52,Micronesia,2022-04-26,2025-01-23,36,1855.03,False
+41bf8ea6-b2e0-4680-b55c-cdf89e73688c,Joshua Rivera,karenwatson@griffith-pena.com,25,Paraguay,2024-02-09,2025-05-17,15,4668.79,True
+68d98cdd-7038-4fda-bbec-a8d7606e780d,James Martin,mercadomichael@hotmail.com,42,Aruba,2025-05-11,2025-06-25,38,4862.37,False
+51046c14-3a07-4e0b-832f-9f555c850e82,Kathryn Valentine,alison28@davis.com,23,Timor-Leste,2023-09-02,2024-12-22,15,247.48,True
+670bf774-b3da-442a-951f-ebdd0252c82e,Samuel Orozco,audrey67@gmail.com,53,Antigua and Barbuda,2022-02-14,2024-09-22,1,1821.16,True
+40d1d9d8-e7a8-4d6a-9d1b-c343fc1545af,Diana Nelson,onelson@mason.com,36,South Georgia and the South Sandwich Islands,2024-07-17,2024-07-16,5,3426.23,False
+6bd4d936-ee3b-425d-94d1-17ef6a12b53d,Randy Graham DDS,charlottesmith@yahoo.com,58,Tanzania,2021-09-03,2025-03-01,46,3351.32,False
+24eea022-d064-48bc-909b-9a48ff1c4a5c,Alejandro Leblanc,michael41@snyder.com,57,Mongolia,2024-05-10,2024-11-19,41,1800.71,False
+be71a46d-4123-49c5-bb6c-e76860a942a5,David Burgess,freemanlee@gmail.com,41,Egypt,2021-08-03,2024-10-09,4,2821.42,True
+7dd5f9e1-d4fb-49f4-b629-fcd0894d91de,Matthew Pratt,lorigray@gmail.com,54,Kyrgyz Republic,2021-01-15,2025-06-12,15,4379.83,False
+ac8d4843-9a1f-4279-80e7-cf03dd0dcba5,Lauren Williams,qkennedy@rice.com,30,Portugal,2024-11-17,2025-06-24,5,4870.49,False
+333d7075-3eda-4cfd-94fe-63ea0bf7f5cb,Kathleen Ford,flemingcheryl@buckley.net,63,Ukraine,2020-07-26,2024-09-28,3,3759.91,False
+107c0c36-5acf-4b0d-b3c1-9b500c26aba2,Vicki Hodges,hayleygeorge@hotmail.com,22,Trinidad and Tobago,2025-05-23,2025-06-06,22,4632.53,False
+ae755257-e30f-475a-8175-d873454f251a,Dustin Fuller Jr.,kochjason@hotmail.com,20,Libyan Arab Jamahiriya,2023-02-24,2025-02-20,5,1221.85,False
+eea82e66-8a2a-4e16-b30a-1751750e01aa,Kelly Bush,npowers@hotmail.com,60,Chad,2023-09-10,2024-10-30,33,854.38,False
+2fb2838a-e5ca-4cdd-85f1-8c771e4ea2aa,Mariah Chan,johnsonsarah@welch.com,32,Oman,2021-03-21,2024-07-18,16,4009.44,False
+efb6371a-b00f-4cd3-a083-3555d36297db,Katelyn Rasmussen,wperez@schroeder.com,67,Tanzania,2020-07-09,2025-03-11,18,926.41,True
+5d1d2826-77c0-4c1f-91a4-2e2a590cfada,Brittany Butler,joseph54@davis-brooks.com,36,Benin,2023-01-30,2025-06-17,43,2090.86,False
+8e8218e0-bf16-4589-9c8b-16b34b125495,Ana Li,hollyharris@gmail.com,23,South Georgia and the South Sandwich Islands,2023-12-21,2024-10-04,32,937.84,True
+37458c7d-3bc4-48a9-b209-7e3ce8eb2a00,Judy Wagner,michelle21@herrera-willis.org,32,Hong Kong,2024-07-29,2025-03-01,14,4626.21,True
+7e3a8c10-3a65-4b3e-af52-0483845d70ad,Casey Campbell DDS,donnasnyder@hunter-bradley.com,24,Lao People's Democratic Republic,2022-10-14,2024-09-30,35,3922.81,False
+650875af-ce2b-4a4c-b371-434cc7ddeb78,Caroline Turner,john66@yahoo.com,42,Fiji,2021-09-20,2025-06-02,9,2087.98,True
+0c476165-74ef-4b49-adb0-12014a2107d0,Carolyn Hodge,garciatamara@garrison-doyle.com,35,Mozambique,2023-08-24,2025-05-18,47,3366.04,True
+cd82497a-b90a-4815-a523-3c2bf74de33b,Pamela Martin,tammyfranklin@welch.info,47,Montenegro,2022-06-17,2024-07-31,37,3688.53,True
+2d486cca-7886-487c-b124-80eafc64b674,Marissa Mcdonald,gardnerroy@hotmail.com,58,Western Sahara,2021-06-13,2024-08-01,37,1278.43,True
+7a7e91eb-0e01-4206-99fd-040f7f3fd0b9,Taylor Reeves,middletondavid@yahoo.com,41,Jersey,2024-06-11,2025-05-03,31,838.03,True
+70f4a2ea-32db-4986-9e3d-bc05e80767b5,James Lopez,marisa98@bryant.biz,28,Netherlands,2023-10-06,2025-04-14,16,3521.33,True
+8735c619-b948-44b5-9c87-adfc41a74e83,Lisa Gordon,danielrojas@yahoo.com,41,Ghana,2022-11-27,2025-04-02,31,1943.58,True
+08069d9f-3f16-4285-8658-a91c329a423d,Michael Haas,ktrevino@yahoo.com,40,Cambodia,2025-04-30,2024-10-27,27,241.69,True
+cee1df5d-39e9-48fd-a2e9-9775244f7bdc,William Villarreal,christopher71@robles.org,31,Macedonia,2023-06-24,2025-04-17,13,2379.92,True
+d022527d-46f7-4d5a-a06b-33e21d103b50,Patricia Mcdonald,vking@yahoo.com,60,Madagascar,2021-11-15,2024-07-19,7,1037.89,True
+1da6d4b9-7c76-4295-9221-88b6c7450a02,Kayla Ramos,jenniferdonovan@yahoo.com,35,Turkey,2021-04-04,2024-09-28,7,4596.34,False
+01c66f93-efe4-42b9-8445-7a1fe1826199,Charles Bautista,rodgersbrooke@hotmail.com,62,Iran,2025-02-07,2024-10-26,43,1780.81,True
+bf9d17b6-b469-4973-84e9-2718cc99efde,Heather Gillespie,tonyfernandez@christensen.info,61,Cyprus,2025-01-20,2025-01-28,28,4111.66,True
+bc6ad990-7b27-45a7-bdeb-cd0d3ee8b988,Laura Martinez,jfritz@yahoo.com,59,Antigua and Barbuda,2021-07-31,2024-08-11,23,4363.05,False
+181d3bf0-23f8-49c6-87f6-99ba55d14e8b,Daniel Fisher,taylor01@thompson.info,22,Mauritania,2020-08-09,2025-01-31,28,1153.47,False
+4be5f0e6-6a66-4303-bdb5-5205247d435e,Justin Long,pamela88@gmail.com,56,Colombia,2020-08-16,2024-11-02,27,3317.16,False
+9d4cb0d8-4624-453a-b5a8-15cd3bff0543,Lori Quinn,bcarpenter@campbell.net,58,Bermuda,2025-02-27,2024-12-01,30,2022.41,True
+b72be551-d5b0-4054-b263-57fdfa2f9dc4,Gerald Palmer,kevin02@jensen.org,28,Philippines,2025-06-29,2025-01-12,47,1429.09,True
+ae50ca8a-b00c-4934-958d-a1e44b6e46fa,James Brown,carlos15@sanchez.info,52,Malta,2024-12-01,2025-04-17,4,393.63,True
+8e0ecb75-e218-4c90-9399-acb0b64bb145,Amy Daugherty MD,gonzalezheather@yahoo.com,64,Singapore,2024-12-09,2025-01-27,44,3877.97,False
+21609a84-d824-4cd6-bd59-ada4dcbdfa8e,Mrs. Kimberly Jackson,mmitchell@stewart.net,33,Palau,2020-11-07,2025-02-05,42,1788.17,True
+4d6811c0-6272-4790-b934-2d2b3e47bc5f,Gordon King,ijackson@yahoo.com,28,Sweden,2023-05-24,2025-06-08,42,2571.56,True
+a4e7e8c2-6e23-47c8-b199-7edeb04941c7,Nicholas Miller,jeffery08@hotmail.com,47,Belize,2024-08-04,2024-07-20,7,3413.61,False
+c162efa7-e3ca-434f-84ee-812c3cbad9e1,Donna Moore DDS,brianbarry@forbes.biz,42,Guam,2024-04-05,2025-06-21,4,4226.12,False
+8dd0f47e-b335-4395-9fd1-c9560387806d,Michael Moore,laurennunez@parker.com,35,Algeria,2022-06-29,2024-08-07,26,1689.19,False
+5ade15ba-5dd3-4c66-86ee-aa7806a0809e,Christine Armstrong,toddwashington@hamilton.com,58,Sri Lanka,2024-04-26,2025-01-05,47,186.62,True
+44d49b92-4d5d-4703-89fb-0463c493f66c,Scott Horton,gthomas@johnson.net,62,Brazil,2022-02-20,2025-02-22,22,4391.34,True
+5d36d7a2-1704-4541-ab95-5889960d5aea,Michael Franklin,markmccoy@hotmail.com,53,Luxembourg,2021-02-18,2024-11-20,7,1343.02,True
+f53beff3-b5dc-475b-86c3-6837005ed75b,Stephanie Herring,mike23@gutierrez.com,32,Guyana,2020-08-20,2024-08-10,16,2923.92,True
+8c14a53e-618e-4a95-914d-9b9f3a578d41,Linda Ingram,natalie69@yahoo.com,61,Romania,2020-08-20,2025-04-14,13,4918.58,False
+af6b5afe-ddcb-44a8-9b94-1af993a10338,David Quinn,erikmack@gmail.com,38,Maldives,2024-06-05,2025-04-15,13,239.37,True
+27c5160f-0e8d-4cda-aa0f-4b3e9c3c8810,John Barr,ygraham@yahoo.com,67,Hungary,2023-12-21,2025-01-26,35,3003.03,True
+f8e914bd-62df-4ee9-8344-e4fd6564e80c,Nicole Williams,scottsmith@gmail.com,67,Haiti,2021-07-02,2025-04-08,29,1761.15,False
+e519671d-be73-4c7a-b02e-ba113a7540b6,Michelle Arellano,jessica45@gmail.com,21,Cote d'Ivoire,2023-10-31,2025-01-07,9,3942.82,False
+3aedc18e-5f0e-40f6-9b4b-b4cc11d989ef,Anthony Barrett,tcampos@yahoo.com,32,Cuba,2025-02-28,2024-11-11,28,2210.15,False
+8d02bdc5-c8b0-40c9-9fc6-c21fcf8302ea,Christina Parker,rowesteven@hotmail.com,70,Czech Republic,2021-02-23,2025-04-21,12,4921.97,True
+e05916aa-7753-47e6-8d3d-48ba50a38da7,Kimberly Reynolds,rebekahanderson@hotmail.com,20,Saint Barthelemy,2024-02-17,2024-09-13,18,622.45,False
+8936a8ad-a5e1-49a3-ac4a-d35e859cd7d5,Matthew Long,derek28@yahoo.com,69,Lesotho,2024-10-16,2025-05-01,30,4502.55,True
+f01ba032-11dd-4ab1-b93c-8dc1af04fee5,Katrina Franco,henrymorgan@blair.org,38,Lithuania,2024-03-28,2024-11-20,16,990.89,False
+de48e4ce-9912-4ead-93a6-11f64ac0d94d,Tammy Schaefer,regina53@moreno.com,43,Cameroon,2023-06-23,2025-04-02,5,269.71,False
+0145f744-5aaf-4225-9007-9093c67d894a,Cheryl Burke,olsonnicole@hotmail.com,35,Burundi,2020-08-04,2025-06-15,29,2208.48,True
+52816c8e-95e1-4c0e-a3a7-f279f03bd501,Scott Benjamin,mendozaemily@hotmail.com,22,Thailand,2025-04-19,2025-02-17,36,2623.61,False
+f0876ca1-493d-4537-97ee-9ed5ea2273b5,Billy Hayden,christopheracosta@yahoo.com,31,Djibouti,2025-02-07,2025-05-05,7,4042.23,False
+36ee5eb4-089e-4a15-a189-22f211d8b044,Mary Bauer,markperez@woods-rowland.com,54,Dominica,2020-08-14,2025-02-02,4,3449.94,False
+548107e1-9286-4791-882b-b04cb1929d09,Robert Watts,mary85@jones.org,63,Solomon Islands,2023-06-29,2024-08-17,42,4704.3,True
+949c11b7-2ee3-4c27-8304-d1575c47bac9,Raven Hammond,clarkmegan@adams-taylor.info,38,Guatemala,2025-01-18,2025-02-04,35,3698.34,False
+05f1148d-e11b-4135-90fa-af6be3fb16e9,Stephanie Bailey,hardinglatoya@hotmail.com,31,Afghanistan,2024-04-26,2025-05-25,1,1025.32,True
+ab9c4ddb-2a1e-4d16-b847-4c797a221d57,Matthew Petty,liumike@hill-moore.com,59,Germany,2023-11-12,2024-11-29,6,2184.92,False
+7be097f4-1554-427d-a322-8e5ca92fc83a,Elizabeth Park,sharonmay@maldonado-white.org,49,Colombia,2024-12-20,2025-04-01,49,4746.93,False
+75a10579-1f19-41af-a14c-73a89d0dc504,Ryan Butler,kimberlyherrera@baker.info,43,Armenia,2023-01-29,2025-05-01,16,4607.82,False
+68657760-1b0e-4b2f-8de0-46b19038a087,Evelyn Henson,carlthompson@hotmail.com,59,Niger,2025-03-24,2025-01-29,11,3134.62,False
+cbc7f57c-5112-490b-9212-fdb274b5494f,Cynthia Torres,gcollier@hotmail.com,47,British Virgin Islands,2021-11-03,2025-02-23,27,3333.77,False
+248eabcd-19e4-40eb-a40a-d52c22907282,Ronald Jenkins,chamilton@yahoo.com,27,New Zealand,2021-10-06,2024-08-11,32,666.9,False
+c7de96b2-00bd-4261-9eda-a5baf5cb4419,Thomas Burke,willie86@west.com,34,Antarctica (the territory South of 60 deg S),2024-11-10,2024-08-21,31,4505.23,True
+e48eb8e9-f97f-4b3b-b4d3-62ffe1310ca9,Miranda Townsend,johndorsey@yahoo.com,26,Central African Republic,2024-09-21,2025-02-22,14,2560.26,True
+e6b2d131-58c1-4de0-953e-f6e1cdfcc67a,Jennifer Ramsey,sophia57@hotmail.com,33,Chile,2021-07-10,2024-10-10,26,3351.12,False
+121c6722-cb57-4b2c-bbbd-852c746b40df,Carmen King,cbarr@gmail.com,65,Belgium,2024-07-10,2024-09-25,4,1664.61,False
+054549ab-98a4-4369-8793-90dc07765132,Alan Howard,jay59@hernandez.com,53,Myanmar,2021-04-21,2024-11-22,11,3501.18,True
+45598429-13a4-4827-884a-80ee0712525c,James Haynes,alexismills@brewer-johnson.net,52,Latvia,2025-04-25,2025-05-10,25,2794.34,False
+75dcd3fd-1411-4969-8e38-a2268a398546,Brian Turner,garciathomas@montgomery.org,34,Ireland,2020-11-25,2025-01-19,1,999.61,False
+7fb301fb-5fd8-4cab-ae4a-fcd5a68e249f,Andrea Shaw,robert86@hotmail.com,65,United States of America,2023-06-06,2024-07-20,25,3341.4,False
+437c07c6-bac6-4f7c-8932-9ea5fafc7a57,Kevin Stewart,erodriguez@hotmail.com,55,Guinea-Bissau,2023-12-19,2025-05-31,17,1926.77,True
+717e875c-e34c-4dc5-a25e-0170efe30d29,Paul Edwards,ellenmcknight@alexander-robinson.org,45,Vanuatu,2023-10-24,2024-07-21,30,3753.27,False
+95d7e155-77a8-4688-b93e-0a2d68aa17c9,Maria Simpson,charles62@brown-chavez.com,55,Guatemala,2023-06-22,2025-05-08,19,911.44,False
+f13af9e7-5366-4ffb-9e30-98d2d32f4a16,Heather White,padams@gmail.com,43,Antigua and Barbuda,2025-01-27,2025-01-30,28,2867.07,True
+a5da430e-188f-4420-99d1-9beba81f127a,John Wells,burkelarry@gmail.com,41,Barbados,2024-03-13,2024-10-01,45,2060.07,False
+73c3731b-3115-4e79-8b33-9158b548f922,Kathleen Rios,holly72@hotmail.com,32,Saint Pierre and Miquelon,2022-10-28,2025-03-10,47,4176.94,True
+b88392c2-d35b-491f-91bf-a09790d79362,Tracey Schroeder,vgilbert@chan.info,26,Turkmenistan,2022-10-05,2024-12-13,36,1554.18,False
+5e54bee2-5bf1-467e-a92f-641e3a811ce5,Hannah Pacheco,judy34@crosby.info,50,Saint Martin,2024-02-10,2025-05-04,43,1090.4,False
+4df9c1eb-68d6-4c44-8639-d1900924fbb7,Matthew Boyd,cnguyen@cox-brown.org,49,Indonesia,2020-11-14,2024-10-08,46,3939.51,False
+388da5fc-fbe6-4b86-88b0-2987bc70327f,John Randall,josephelliott@james.com,23,Reunion,2021-07-26,2024-07-26,32,3052.97,False
+65781f63-ef49-47a9-8011-c48d2d0fdc92,Mark Jimenez,lucas11@turner.info,66,Reunion,2024-08-17,2025-03-23,10,1645.13,False
+a1d40be8-c9bc-4caf-bc83-49f53900d9e0,Hailey Lopez,kimberlywhite@hotmail.com,21,Sierra Leone,2020-11-27,2025-01-18,13,2236.84,True
+c773a017-eeb1-4746-a4cf-c5315946aa81,Nathan Jones,jalvarez@mills.net,25,Saint Helena,2024-09-26,2025-01-05,19,3394.35,True
+140b5f9b-06ff-46db-8afa-090175fb606c,Diamond White,eric06@hotmail.com,27,Liechtenstein,2021-10-26,2025-01-16,14,2580.31,True
+42fe2665-dbe9-412c-bab3-bc2b1d6106c1,Rachel Lawrence,loganseth@stewart.info,58,Finland,2022-05-15,2025-03-09,4,3978.99,True
+0f5058cc-b71e-4abe-be3f-3f0634a7499a,Thomas Jenkins,vsnyder@gmail.com,28,Ukraine,2021-05-23,2024-08-01,38,4801.17,False
+f5dcc73b-8ddd-4acd-a6db-3a5d646a52d3,Courtney Jensen,juanmoore@lloyd.org,68,Kazakhstan,2023-12-03,2025-02-10,48,3693.01,False
+80f6ed42-4716-452b-9727-89929c1e4575,Frank White,jamessnyder@huerta-campbell.com,61,Samoa,2022-09-11,2025-04-05,35,3311.31,True
+57b9191b-e80b-4de8-ad6a-d696cc4a5081,Christine Henry,dwayne10@hotmail.com,45,Honduras,2025-06-14,2025-01-28,4,1454.74,False
+5e13699d-91a2-455b-844a-9036eaa9b1f4,Valerie Bishop,uchristensen@yahoo.com,56,Hungary,2021-03-31,2025-01-22,48,3336.08,False
+7cf865cc-a57b-46e2-a302-c682d5f4296a,Benjamin Castillo,aprilbaker@hotmail.com,22,Swaziland,2022-09-21,2024-11-07,21,3115.34,False
+4c46f32a-f196-484a-ae99-8be1bcb820f2,John Mcdonald,leachnatalie@hurley.net,42,Saint Lucia,2024-11-22,2025-03-05,4,512.27,True
+7b31868f-1e89-4361-bc62-458f6e3cf904,Richard Ponce,becky72@yahoo.com,42,Switzerland,2023-04-20,2024-08-16,4,4762.4,True
+6fc22152-e0a3-4b71-80d3-ccc7abf0bb29,Ian Wolfe,linda93@butler-costa.biz,56,Pitcairn Islands,2022-08-21,2025-05-25,38,1212.6,False
+a36d1e21-c53c-4799-9533-1e4928f4e7b5,Jamie Cruz,johncastro@hotmail.com,47,United Arab Emirates,2021-01-27,2025-05-05,31,1586.58,True
+0b75e7f5-2470-4d1a-a746-d8b7da3a0390,Elizabeth Marshall,pattonkevin@jackson-lee.com,51,Denmark,2021-06-06,2024-12-22,33,4042.49,False
+ec5f7d79-dff4-4165-ae40-2dc1fce7ccda,Madison Hogan,tmiller@gmail.com,34,Turkmenistan,2020-09-13,2025-04-16,34,779.4,True
+e7e81a00-0930-413c-9820-388b0c9b06f9,Ashley Parsons,halljamie@vega-acosta.com,53,Israel,2024-11-23,2025-03-27,11,278.76,False
+aac1babf-5d74-49b2-8127-8c89619242ce,Emily Wilson,matthewjohnson@mahoney.com,18,Ethiopia,2020-12-15,2024-09-17,4,4920.48,False
+12dad6ff-bdea-410d-9759-9625879dbdfa,Kimberly Marshall,robert14@hotmail.com,61,Malta,2025-06-11,2024-09-23,33,3075.81,False
+1b2c0dae-74e8-49c9-af81-d2198c065465,Rebecca Villanueva,gwood@gmail.com,64,Togo,2021-01-01,2024-11-29,6,3854.02,False
+909e16ea-c843-452e-ac04-fe58d11e8b99,Denise Barnes,melissa64@gmail.com,25,Singapore,2021-04-18,2025-03-24,12,2304.31,False
+c4cfe9ad-9cd9-4540-9651-023bb2947db2,Lisa Simmons,christinadelgado@hotmail.com,61,Grenada,2020-10-30,2025-04-09,5,4436.38,False
+9b6d5b13-7222-4cf2-8eb2-dedb726fb3c4,Travis Palmer,elewis@martinez-jones.com,52,Qatar,2025-04-17,2025-03-27,39,2899.57,False
+5e3353b0-ae61-4404-ab9d-cbb40d497ccc,Shannon Hardin,tracyjones@wagner.com,66,Guinea,2021-10-28,2024-08-14,5,3605.81,False
+b162d6f5-4fc5-4f81-ac22-d28d21b8e33d,Ian Roberts,cthompson@yahoo.com,35,Australia,2022-01-22,2024-11-08,44,1950.69,False
+25974787-fbdd-412f-9969-8cd093670579,Sara Dawson,pjones@moore.biz,67,Jordan,2025-06-29,2024-07-11,16,2028.28,False
+4196f37b-eea3-45c2-8ca1-58ed43c5394e,Jake Hughes,anne56@reilly-ford.info,59,Mexico,2021-09-01,2025-04-20,26,780.48,False
+d63452d1-fd02-406a-96b4-e47980684fb3,Lynn Rogers,hornchristopher@yahoo.com,39,Albania,2024-10-08,2025-07-01,8,3453.73,True
+689949b5-fced-4e71-9a24-9b8a27c3d556,Mr. Justin Butler DDS,rojasjames@yahoo.com,25,Norway,2025-01-14,2024-11-17,37,4468.67,True
+9b30696e-6366-419a-9f06-435182a4cc0f,Latoya Sims,westjames@gonzalez.org,36,Uzbekistan,2023-04-29,2024-07-11,16,4309.18,True
+8d1032fe-b059-47da-87e1-0ee40100af28,Julie Holder,ehatfield@brooks.com,45,Lesotho,2021-09-29,2024-12-04,38,4433.05,False
+665f80d5-93ea-4003-b4fc-1f970580be2e,Ronnie Garcia,pstevenson@lee.com,28,Somalia,2021-04-12,2025-04-09,39,3903.18,True
+b6a82a33-6b6f-4a03-afc8-02f7f07d477d,Holly Webb,rcook@faulkner.net,47,Lebanon,2022-07-29,2025-05-26,3,1133.26,True
+2305b966-68ec-4c17-a24d-1bd7bf65d17d,Christopher Wallace,hardinteresa@yahoo.com,18,Sudan,2021-11-08,2024-11-19,40,4030.34,True
+2a983668-3d9f-48b2-ad6d-4b28d7101fa9,Michael Ortiz,valerie03@nguyen-stein.com,64,Libyan Arab Jamahiriya,2022-02-04,2024-12-03,6,3494.76,True
+3a80b0a7-3d99-49a4-866f-5fcbd8ca35bf,Carol Diaz,nathancox@yahoo.com,64,Angola,2021-07-11,2025-01-05,27,2349.52,False
+098cf589-d6d5-493f-af5b-dc090200c7a0,Jeffery Stout,sarastout@hotmail.com,34,Burundi,2020-11-13,2024-07-09,43,2809.16,False
+70202921-3ade-4962-86d3-35b006e515e2,Crystal Sanchez,joshua90@hotmail.com,50,Singapore,2022-05-09,2024-08-08,38,4591.48,False
+01288a8c-7098-4750-8c81-154b812e8d96,Matthew Goodman,acolon@gmail.com,66,Mongolia,2024-10-09,2025-05-15,37,650.73,True
+e6ef2338-5424-4b5b-b37f-40eb0e9401b0,Christina Walton,tracie64@yahoo.com,29,Aruba,2025-02-22,2024-11-06,34,710.03,True
+460c69a2-5a42-487e-b2e0-e7a08c52020b,Maria Schwartz,blanchardjessica@dunn.com,50,New Zealand,2023-01-29,2025-05-01,21,2349.98,False
+abd5eb90-2252-4630-913d-d6a84a8d4d7f,Sandra Vincent,castilloryan@gmail.com,24,Yemen,2025-05-20,2024-12-06,17,2679.1,True
+9be23fcf-50db-4c4c-a581-1cae57dbe661,Steven Nunez,grahamkimberly@roberts.biz,58,Gabon,2023-03-02,2024-08-06,14,2816.68,False
+3e7c836d-65f4-464c-89c2-69de81aaa9ae,Mark Rodriguez,jason52@hicks-christensen.com,37,Norway,2023-09-13,2025-01-30,43,1620.62,True
+e110570a-ae47-4f7c-bb5b-5d18a13cfa94,Travis Payne,rsmith@yahoo.com,58,Singapore,2023-05-14,2025-05-07,46,3788.49,False
+31297c2c-eab7-4194-b842-9c4f6b4f603c,Miranda Mcguire,pauljohnny@hotmail.com,50,Turkey,2022-09-02,2025-01-16,21,2240.74,True
+3a91d2b4-e7f8-4e6c-af2d-433cc84ec703,Cassandra Krause,johnsonsusan@grant.com,56,Saint Pierre and Miquelon,2021-11-25,2024-11-14,16,4084.28,True
